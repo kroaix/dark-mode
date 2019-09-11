@@ -1,6 +1,6 @@
 # Module Project: Composing Stateful Logic - Dark Mode
 
-This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored Form management in React. You learned what stateful logic is, how to build custom hooks, how to compose multiple hooks together, and how to use mocks and spies in testing. In your project you will demonstrate proficiency of these subjects and principles by creating an application using each of these.
+This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored Form management in React. You learned what stateful logic is, how to build custom hooks, and how to compose multiple hooks together. In your project you will demonstrate proficiency of these subjects and principles by creating an application using each of these.
 
 ## Instructions
 
@@ -130,4 +130,4 @@ After finishing your required elements, you can push your work further. These go
 
 - Go to the [Coin Gecko API](https://www.coingecko.com/) where we got this data from, and add more features to your app. Maybe you want to make a dropdown list of coins, and only look at one coin at a time. You could make an API call to that API for a specific coin and get more data on it. You could get more specific coin data for the last 24 hrs. There's a lot you can do with this API. Explore and have fun!
 
-- Look into the recharts library and build a new chart. Or change the appearence of the charts we built out here. Maybe when you toggle to dark mode, the line on the chart could change colors! There's a lot you can do with this library. Explore and have fun!
+- Look into the recharts library and build a new chart. Or change the appearance of the charts we built out here. Maybe when you toggle to dark mode, the line on the chart could change colors! There's a lot you can do with this library. Explore and have fun!
